@@ -2,4 +2,4 @@
 
 ## liri bot
 
-![alt text](screenshot1.png)
+![alt text](./screenshot1.png)
