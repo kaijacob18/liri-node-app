@@ -15,4 +15,8 @@ In this project, there are total of 4 command used to grab data from API listed 
 ## Testing LiriBot Project
 1. cmd line: node liri.js spotify-this-song (name of song)
 
-![alt text](./spotify screenshot.jpg)
+![alt text](./spotify-screenshot.jpg)
+
+2. cmd line: node liri.js movie-this (name of movie)
+
+![alt text](./movie-this-screenshot.jpg)
