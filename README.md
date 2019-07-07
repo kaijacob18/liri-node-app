@@ -6,7 +6,7 @@ In this project, there are total of 4 command used to grab data from API listed 
 - OMDB
 - Bands In Town
 - random.txt (text file)
-### The 3 Command Line used
+### The 4 Command Line used
 1. spotify-this-song
 2. movie-this
 3. concert-this
